@@ -19,8 +19,8 @@ Get the autocomplete suggestions Google shows as you type, for any query, as cle
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/johnisanerd/Apify-Google-Autocomplete-API.git
-   cd Apify-Google-Autocomplete-API
+   git clone https://github.com/johnisanerd/Google-Autocomplete-API.git
+   cd Google-Autocomplete-API
    ```
 
 2. **Install dependencies with UV**
@@ -250,4 +250,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Autocomplete API to expand queries and power suggestions in your product or AI agent.*
 
-Last Updated: 2026.06.01
+Last Updated: 2026.06.14
