@@ -250,4 +250,14 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Autocomplete API to expand queries and power suggestions in your product or AI agent.*
 
-Last Updated: 2026.06.14
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store, each targeting one keyword-research use case:
+
+- [Get Long-Tail Keyword Ideas From Google Autocomplete](https://apify.com/johnvc/google-autocomplete-api/examples/get-long-tail-keyword-ideas-from-google-autocomplete?fpr=9n7kx3)
+- [Get Question Keywords From Google Autocomplete](https://apify.com/johnvc/google-autocomplete-api/examples/get-question-keywords-from-google-autocomplete?fpr=9n7kx3)
+- [Get Keyword Research Data as JSON From Google](https://apify.com/johnvc/google-autocomplete-api/examples/get-keyword-research-data-as-json-from-google?fpr=9n7kx3)
+- [Find Negative Keywords for Google Ads](https://apify.com/johnvc/google-autocomplete-api/examples/find-negative-keywords-for-google-ads?fpr=9n7kx3)
+- [Get Google Search Suggestions for Any Keyword](https://apify.com/johnvc/google-autocomplete-api/examples/get-google-search-suggestions-for-any-keyword?fpr=9n7kx3)
+
+Last Updated: 2026.06.15
