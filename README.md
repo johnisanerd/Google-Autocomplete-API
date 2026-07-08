@@ -260,4 +260,4 @@ Ready-to-run examples on the Apify Store, each targeting one keyword-research us
 - [Find Negative Keywords for Google Ads](https://apify.com/johnvc/google-autocomplete-api/examples/find-negative-keywords-for-google-ads?fpr=9n7kx3)
 - [Get Google Search Suggestions for Any Keyword](https://apify.com/johnvc/google-autocomplete-api/examples/get-google-search-suggestions-for-any-keyword?fpr=9n7kx3)
 
-Last Updated: 2026.07.06
+Last Updated: 2026.07.08
