@@ -260,4 +260,15 @@ Ready-to-run examples on the Apify Store, each targeting one keyword-research us
 - [Find Negative Keywords for Google Ads](https://apify.com/johnvc/google-autocomplete-api/examples/find-negative-keywords-for-google-ads?fpr=9n7kx3)
 - [Get Google Search Suggestions for Any Keyword](https://apify.com/johnvc/google-autocomplete-api/examples/get-google-search-suggestions-for-any-keyword?fpr=9n7kx3)
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Google Autocomplete API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Google%20Autocomplete%20API%20on%20Apify%20%28https://apify.com/johnvc/google-autocomplete-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22%E8%8E%B7%E5%8F%96%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E4%B8%8B%E6%8B%89%E8%AF%8D%28%E4%B8%AD%E6%96%87%E5%85%B3%E9%94%AE%E8%AF%8D%29%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Google%20Autocomplete%20API%20on%20Apify%20%28https://apify.com/johnvc/google-autocomplete-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22%E8%8E%B7%E5%8F%96%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E4%B8%8B%E6%8B%89%E8%AF%8D%28%E4%B8%AD%E6%96%87%E5%85%B3%E9%94%AE%E8%AF%8D%29%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Google%20Autocomplete%20API%20on%20Apify%20%28https://apify.com/johnvc/google-autocomplete-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22%E8%8E%B7%E5%8F%96%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E4%B8%8B%E6%8B%89%E8%AF%8D%28%E4%B8%AD%E6%96%87%E5%85%B3%E9%94%AE%E8%AF%8D%29%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20Google%20Autocomplete%20API%20on%20Apify%20%28https://apify.com/johnvc/google-autocomplete-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22%E8%8E%B7%E5%8F%96%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E4%B8%8B%E6%8B%89%E8%AF%8D%28%E4%B8%AD%E6%96%87%E5%85%B3%E9%94%AE%E8%AF%8D%29%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 Last Updated: 2026.09.22
